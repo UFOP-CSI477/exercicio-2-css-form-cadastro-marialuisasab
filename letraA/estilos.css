@@ -1,0 +1,31 @@
+
+h1{
+  font-family: tahoma, arial;
+  text-align: center;
+  background-color:	#C0C0C0;
+
+}
+
+.ok{
+  background-color:#C0C0C0;
+  text-align: center;
+}
+.alinhar{
+  font-family: tahoma, arial;
+  text-align: center;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #ffb3b3;
+}
